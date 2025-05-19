@@ -1,0 +1,35 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #120202
+align="right"
+}
+
+h2{
+font-size: 40px;
+text-align: center;
+color: #2c0220
+align="left"
+}
+
+h3{
+font-size: 40px;
+text-align: center;
+color: #2c0220
+align="right"
+}
+
+
+p{
+font-size: 40px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #da89bb;
+}
+img{
+width: 1000px;
+height: 700px;
+}
